@@ -68,7 +68,7 @@ This project demonstrates how Python, SQL, and Power BI can work together to tur
 ---
 
 ## Technologies Used
-- **Python:** Pandas, Matplotlib, Seaborn, MySQL  
+- **Python:** Pandas, Matplotlib, Seaborn  
 - **SQL:** MySQL for database management  
 - **Power BI:** Interactive dashboard and reporting  
 
